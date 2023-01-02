@@ -1,6 +1,12 @@
 # Welcome the Guide for a SteamOS–ish Windows 11
 
-**This guide assumes you already have Windows 11 installed!**
+## DISCLAIMER
+
+**Within this guide, you will find closed and open source tools that help tweak and debloat Windows. I won't be held responsible for bricking your Steamdeck ya-da-ya-da. In short, you run and install them at your own risk.**
+
+** If you have no clue about anything you're doing, then you should consider doing research and get up to speed.
+
+## This guide assumes you already have Windows 11 installed!**
 
 **This is a guide that I hope will get you as close to the SteamOS experience as possible and also give you the best Windows experience possible.**
 
@@ -28,16 +34,27 @@ A brief summary of the first time set-up steps for Windows would be:
 # How to install Windows 11
 
 If you’re after a guide on how to install and setup Windows 11, that's been extensively covered here:
+ 
+* https://github.com/baldsealion/Steamdeck-Ultimate-Windows11-Guide/wiki
+* Dual-boot tutorial here: https://www.youtube.com/watch?v=KaviK55od6Y
 
-https://github.com/baldsealion/Steamdeck-Ultimate-Windows11-Guide/wiki
+Note: if you want to avoid having to sign-in with a Microsoft account, you'll probably want to tick the "Remove requirement for an online Microsoft Account" in Rufus. Other workarounds here:
+
+https://www.tomshardware.com/how-to/install-windows-11-without-microsoft-account
 
 You can automate a lot of the set-up phase with this handy script by CelesteHeartson:
 
-https://github.com/CelesteHeartsong/SteamDeckAutomatedInstall/releases
+* https://github.com/CelesteHeartsong/SteamDeckAutomatedInstall/releases
 
 You may need one of these tools:
 
-* Rufus
-* WinToUSB
-* Windows Media Creation Tool
-* Windows 11 ISO
+ * [Rufus](https://rufus.ie/en/)
+ * [WinToUSB](https://www.easyuefi.com/wintousb/)
+ * [Windows Media Creation Tool](https://support.microsoft.com/en-us/windows/create-installation-media-for-windows-99a58364-8c02-206f-aa6f-40c3b507420d)
+ * [Windows 11 ISO](https://www.google.com/search?q=windows+iso)
+
+
+
+
+
+
