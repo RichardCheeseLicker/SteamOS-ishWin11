@@ -6,7 +6,7 @@
 
 ** If you have no clue about anything you're doing, then you should consider doing research and get up to speed.
 
-## This guide assumes you already have Windows 11 installed!**
+## This guide assumes you already have Windows 11 installed!
 
 **This is a guide that I hope will get you as close to the SteamOS experience as possible and also give you the best Windows experience possible.**
 
@@ -15,12 +15,6 @@
 Go to the Wiki to get started: https://github.com/RichardCheeseLicker/SteamOS-ishWin11/wiki
 
 A brief summary of the first time set-up steps for Windows would be:
-
-**This guide assumes you already have Windows 11 installed!**
-
-> [Most of the stuff in this section is covered in the Ultimate Win 11 Guide](https://github.com/baldsealion/Steamdeck-Ultimate-Windows11-Guide/wiki/1.0-Getting-Started)
-
-A brief summary of all you need to do post-install is:
 
 * [Install Steamdeck Windows Drivers](https://help.steampowered.com/en/faqs/view/6121-ECCD-D643-BAA8)
 * [Set UMA buffer size](https://github.com/baldsealion/Steamdeck-Ultimate-Windows11-Guide/wiki/1.1-Set-UMA-Buffer-Size)
