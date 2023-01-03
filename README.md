@@ -4,7 +4,7 @@
 
 **Within this guide, you will find closed and open source tools that help tweak and debloat Windows. I won't be held responsible for bricking your Steamdeck ya-da-ya-da. In short, you run and install them at your own risk.**
 
-** If you have no clue about anything you're doing, then you should consider doing research and get up to speed.
+If you have no clue about anything you're doing, then you should consider doing research and get up to speed.
 
 ## This guide assumes you already have Windows 11 installed!
 
